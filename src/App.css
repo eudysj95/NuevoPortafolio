@@ -1,0 +1,156 @@
+/* *{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: rgb(21,21,21);
+  margin: 0;
+}
+
+.container{
+  min-height: 100vh;
+  width: 100%;
+  padding: 0 100px;
+}
+
+.header{
+  height: 400px;
+  margin: 0 60px;
+  padding: 0 60px;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  
+}
+.navbar .correo, .navbar .redes{
+  margin: 20px;
+}
+
+.titulo{
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+
+.titulo span{
+  text-decoration: underline rgb(78,145,115);
+}
+
+.titulo, .correo h5, .header p{
+  color: rgb(236,236,236);
+}
+
+.header .parrafo{
+  width: 300px;
+}
+
+.titulo, .header p{
+  width: 500px;
+}
+
+.photoPerfil{
+  float: right;
+  height: 280px;
+  width: 200px;
+  margin-top: -230px;
+  margin-right: 150px;
+  border-radius: 10px;
+  filter: grayscale(60%);
+}
+
+.redes a img{
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+}
+
+.habilidades{
+  width: 100%;
+  margin-top: 20px;
+  display: grid;
+  grid-auto-flow: column;
+  grid-template-rows: 100px 100px;
+  grid-template-columns: 200px 200px;
+  justify-content:space-around;
+}
+
+.habilidad{
+  color: rgb(236,236,236);
+}
+.habilidad h2{
+  font-size: 40px;
+}
+.habilidad p{
+  font-size: 20px;
+}
+
+.tituloProyectos, .footer h2{
+  color: rgb(236,236,236);
+  font-size: 30px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.proyectos{
+  padding: 0 40px;
+  display: grid;
+  grid-template-columns: 400px 400px;
+  justify-content: space-around;
+}
+
+.proyecto{
+  margin-bottom: 20px;
+}
+
+.proyecto h2, .proyecto p, .proyecto a{
+  color: rgb(236,236,236);
+  margin: 5px 0;
+}
+.proyecto a{
+  margin-right: 20px;
+  text-decoration: none;
+  font-size: 15px;
+  font-weight: 800;
+}
+.proyecto img{
+  margin-top: 20px;
+  height: 300px;
+  width: 300px;
+}
+
+.footer{
+  text-align: center;
+  justify-content: center;
+  background-color: rgb(36, 36, 36);
+  width: 100%;
+  padding: 40px 0;
+}
+.footer input[type="text"],
+.footer input[type="email"],
+.footer textarea,
+.footer input[type="submit"]{
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+  width: 300px;
+  background-color: rgb(236,236,236);
+  border: none;
+  border-radius: 5px;
+  height: 30px;
+}
+.footer label{
+  color: rgb(236,236,236);
+}
+.footer input[type="submit"]{
+  width: 100px;
+  margin-top: 30px;
+} */
