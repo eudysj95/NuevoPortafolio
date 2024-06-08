@@ -68,8 +68,8 @@ export const Proyectos = () => {
               <p>REACT</p>
             </div>
             <div className='flex justify-between text-sm mb-2'>
-              <a className="bg-[#5BD7A1] text-white p-2 text-lg md:text-2xl md:p-4 rounded-sm mt-4" href="https://hangman-game-eudysj95.netlify.app" target='blank_'>Ver Proyecto</a>
-              <a className="bg-[#5BD7A1] text-white p-2 text-lg rounded-sm md:text-2xl md:p-4 mt-4" href="https://github.com/eudysj95/hangman-game" target='blank_'>Ver Código</a>
+              <a className="bg-[#5BD7A1] text-white p-2 text-lg md:text-2xl md:p-4 rounded-sm mt-4" href="https://the-hangman-game-eudysj95.netlify.app" target='blank_'>Ver Proyecto</a>
+              <a className="bg-[#5BD7A1] text-white p-2 text-lg rounded-sm md:text-2xl md:p-4 mt-4" href="https://github.com/eudysj95/TheHangmanGame" target='blank_'>Ver Código</a>
             </div>
         </div>
 
