@@ -49,6 +49,11 @@ export const Habilidades = () => {
             <h2 className='text-xl md:text-2xl font-bold text-center xl:text-4xl'>MONGOOSE</h2>
             <p className="text-lg xl:text-xl">1 Año de Expreciencia</p>
         </div>
+
+        <div className='flex flex-col text-center mb-8 mr-2 md:mr-8 w-28 xl:mr-28'>
+            <h2 className='text-xl md:text-2xl font-bold text-center xl:text-4xl'>GIT</h2>
+            <p className="text-lg xl:text-xl">1 Año de Expreciencia</p>
+        </div>
         
     </div>
   )

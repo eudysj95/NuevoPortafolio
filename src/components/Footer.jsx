@@ -16,10 +16,7 @@ export const Footer = () => {
             <input className='mb-4 md:w-[700px] p-2 text-black' type="email" name="email"/>
 
             <label className='mb-2' htmlFor="asunto">Asunto</label>
-            <input className='mb-4 md:w-[700px] p-2 text-black' type="text" name="asunto"/>
-
-            <label className='mb-2' htmlFor="Nombre">Nombre</label>
-            <textarea className='mb-4 md:w-[700px] p-2 text-black' name="comments" cols="15" rows="5"/>
+            <textarea className='mb-4 md:w-[700px] p-2 text-black' name="asunto" cols="15" rows="5"/>
 
             <input className='bg-[#5BD7A1] p-2 w-[50%] md:w-[400px] md:p-6 md:text-3xl rounded-sm mt-2 block my-0 mx-auto' type="submit" value="Enviar"/>
 
