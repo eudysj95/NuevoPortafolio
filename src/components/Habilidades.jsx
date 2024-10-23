@@ -7,12 +7,12 @@ export const Habilidades = () => {
 
         <div className='flex flex-col text-center mb-8 mr-2 md:mr-8 w-28 xl:mr-28'>
             <h2 className='text-xl md:text-2xl font-bold text-center xl:text-4xl'>HTML</h2>
-            <p className="text-lg xl:text-xl">2 Año de Expreciencia</p>
+            <p className="text-lg xl:text-xl">3 Años de Expreciencia</p>
         </div>
 
         <div className='flex flex-col text-center mb-8 mr-2 md:mr-8 w-28 xl:mr-28'>
             <h2 className='text-xl md:text-2xl font-bold text-center xl:text-4xl'>CSS</h2>
-            <p className="text-lg xl:text-xl">2 Año de Expreciencia</p>
+            <p className="text-lg xl:text-xl">3 Años de Expreciencia</p>
         </div>
 
         <div className='flex flex-col text-center mb-8 mr-2 md:mr-8 w-28 xl:mr-28'>
@@ -22,7 +22,7 @@ export const Habilidades = () => {
 
         <div className='flex flex-col text-center mb-8 mr-2 md:mr-8 w-28 xl:mr-28'>
             <h2 className='text-xl md:text-2xl font-bold text-center xl:text-4xl'>JAVASCRIPT</h2>
-            <p className="text-lg xl:text-xl">2 Año de Expreciencia</p>
+            <p className="text-lg xl:text-xl">3 Años de Expreciencia</p>
         </div>
 
         <div className='flex flex-col text-center mb-8 mr-2 md:mr-8 w-28 xl:mr-28'>
@@ -52,7 +52,7 @@ export const Habilidades = () => {
 
         <div className='flex flex-col text-center mb-8 mr-2 md:mr-8 w-28 xl:mr-28'>
             <h2 className='text-xl md:text-2xl font-bold text-center xl:text-4xl'>GIT</h2>
-            <p className="text-lg xl:text-xl">1 Año de Expreciencia</p>
+            <p className="text-lg xl:text-xl">2 Año de Expreciencia</p>
         </div>
         
     </div>
