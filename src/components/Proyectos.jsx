@@ -24,8 +24,8 @@ export const Proyectos = () => {
               <p>REACT</p>
             </div>
             <div className='flex justify-around text-sm'>
-              <a className="bg-[#5BD7A1] text-white p-2 text-lg md:text-2xl md:p-4 rounded-sm mt-4" href="https://calculatorapp-eudysj95.netlify.app" target='blank_'>Ver Proyecto</a>
-              <a className="bg-[#5BD7A1] text-white p-2 text-lg rounded-sm md:text-2xl md:p-4 mt-4" href="https://github.com/eudysj95/CalculatorApp" target='blank_'>Ver Código</a>
+              <a className="bg-[#5BD7A1] text-white p-2 text-lg md:text-2xl md:p-4 rounded-sm mt-4" href="https://calculatorapp-eudysj95.netlify.app" target='_blank' rel='noopener noreferrer'>Ver Proyecto</a>
+              <a className="bg-[#5BD7A1] text-white p-2 text-lg rounded-sm md:text-2xl md:p-4 mt-4" href="https://github.com/eudysj95/CalculatorApp" target='_blank' rel='noopener noreferrer'>Ver Código</a>
             </div>
         </div>
 
@@ -40,8 +40,8 @@ export const Proyectos = () => {
               <p>REACT</p>
             </div>
             <div className='flex justify-between text-sm mb-2'>
-              <a className="bg-[#5BD7A1] text-white p-2 text-lg md:text-2xl md:p-4 rounded-sm mt-4" href="https://cuevana-eudysj95.netlify.app" target='blank_'>Ver Proyecto</a>
-              <a className="bg-[#5BD7A1] text-white p-2 text-lg rounded-sm md:text-2xl md:p-4 mt-4" href="https://github.com/eudysj95/Cuevana" target='blank_'>Ver Código</a>
+              <a className="bg-[#5BD7A1] text-white p-2 text-lg md:text-2xl md:p-4 rounded-sm mt-4" href="https://cuevana-eudysj95.netlify.app" target='_blank' rel='noopener noreferrer'>Ver Proyecto</a>
+              <a className="bg-[#5BD7A1] text-white p-2 text-lg rounded-sm md:text-2xl md:p-4 mt-4" href="https://github.com/eudysj95/Cuevana" target='_blank' rel='noopener noreferrer'>Ver Código</a>
             </div>
         </div>
 
@@ -55,7 +55,7 @@ export const Proyectos = () => {
               <p>MONGOOSE</p>
             </div>
             <div className='flex justify-between text-sm mb-2'>
-              <a className="bg-[#5BD7A1] text-white p-2 text-lg rounded-sm md:text-2xl md:p-4 mt-4" href="https://github.com/eudysj95/BackendCuevana" target='blank_'>Ver Código</a>
+              <a className="bg-[#5BD7A1] text-white p-2 text-lg rounded-sm md:text-2xl md:p-4 mt-4" href="https://github.com/eudysj95/BackendCuevana" target='_blank' rel='noopener noreferrer'>Ver Código</a>
             </div>
         </div>
 
@@ -69,8 +69,8 @@ export const Proyectos = () => {
               <p>REACT</p>
             </div>
             <div className='flex justify-between text-sm mb-2'>
-              <a className="bg-[#5BD7A1] text-white p-2 text-lg md:text-2xl md:p-4 rounded-sm mt-4" href="https://the-hangman-game-eudysj95.netlify.app" target='blank_'>Ver Proyecto</a>
-              <a className="bg-[#5BD7A1] text-white p-2 text-lg rounded-sm md:text-2xl md:p-4 mt-4" href="https://github.com/eudysj95/TheHangmanGame" target='blank_'>Ver Código</a>
+              <a className="bg-[#5BD7A1] text-white p-2 text-lg md:text-2xl md:p-4 rounded-sm mt-4" href="https://the-hangman-game-eudysj95.netlify.app" target='_blank' rel='noopener noreferrer'>Ver Proyecto</a>
+              <a className="bg-[#5BD7A1] text-white p-2 text-lg rounded-sm md:text-2xl md:p-4 mt-4" href="https://github.com/eudysj95/TheHangmanGame" target='_blank' rel='noopener noreferrer'>Ver Código</a>
             </div>
         </div>
 
@@ -85,8 +85,8 @@ export const Proyectos = () => {
               <p>REACT</p>
             </div>
             <div className='flex justify-between text-sm mb-2'>
-              <a className="bg-[#5BD7A1] text-white p-2 text-lg md:text-2xl md:p-4 rounded-sm mt-4" href="https://api-rest-countries-eudysj95.netlify.app" target='blank_'>Ver Proyecto</a>
-              <a className="bg-[#5BD7A1] text-white p-2 text-lg rounded-sm md:text-2xl md:p-4 mt-4" href="https://github.com/eudysj95/Api-Rest-Countries" target='blank_'>Ver Código</a>
+              <a className="bg-[#5BD7A1] text-white p-2 text-lg md:text-2xl md:p-4 rounded-sm mt-4" href="https://api-rest-countries-eudysj95.netlify.app" target='_blank' rel='noopener noreferrer'>Ver Proyecto</a>
+              <a className="bg-[#5BD7A1] text-white p-2 text-lg rounded-sm md:text-2xl md:p-4 mt-4" href="https://github.com/eudysj95/Api-Rest-Countries" target='_blank' rel='noopener noreferrer'>Ver Código</a>
             </div>
         </div>
 

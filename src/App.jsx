@@ -1,31 +1,44 @@
-// eslint-disable-next-line no-unused-vars
-import { useState } from 'react'
-import './App.css'
-import { Header } from './components/Header'
-import { Habilidades } from './components/Habilidades'
-import { Proyectos } from './components/Proyectos'
-import { Footer } from './components/Footer'
-
+import { Routes, Route } from 'react-router-dom'
+import Layout from './components/layout/Layout'
+import LandingPage from './components/pages/LandingPage'
+import ProfilePage from './components/pages/ProfilePage'
+import NotFoundPage from './components/pages/NotFoundPage'
 
 function App() {
 
-
   return (
-    <div className='bg-[rgb(21,21,21)] text-[#FFFFFF]'>
-      
-      <Header />
-
-      <hr />      
-
-      <Habilidades />
-
-      <hr /> 
-
-      <Proyectos />
-
-      <Footer />
-
-    </div>
+    <Routes>
+      <Route element={<Layout />}>
+        <Route
+          path="/"
+          element={<LandingPage />}
+        />
+        <Route
+          path="/frontend"
+          element={<ProfilePage />}
+        />
+        <Route
+          path="/analista"
+          element={<ProfilePage />}
+        />
+        <Route
+          path="/gestion"
+          element={<ProfilePage />}
+        />
+        <Route
+          path="/ai"
+          element={<ProfilePage />}
+        />
+        <Route
+          path="/fullstack"
+          element={<ProfilePage />}
+        />
+        <Route
+          path="*"
+          element={<NotFoundPage />}
+        />
+      </Route>
+    </Routes>
   )
 }
 

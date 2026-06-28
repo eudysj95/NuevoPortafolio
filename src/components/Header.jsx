@@ -14,9 +14,9 @@ export const Header = () => {
             <h5 className='font-bold text-lg xl:text-xl'>eudysjmorag@gmail.com</h5>
           </div>
           <div className='flex justify-between'>
-            <a href='https://github.com/eudysj95' target='blank_'> <img className='w-8 h-8 xl:w-12 xl:h-12' src={github} alt='redes' /> </a>
-            <a href='https://www.linkedin.com/in/eudys-mora-a16431255/' target='blank_'> <img className='w-8 h-8 xl:w-12 xl:h-12' src={linkedin} alt='redes' /> </a>
-            <a href='https://www.facebook.com/share/sdUronfyQVQNnVG9/?mibextid=qi2Omg' target='blank_'> <img className='w-8 h-8 xl:w-12 xl:h-12' src={facebook} alt='redes' /> </a>
+            <a href='https://github.com/eudysj95' target='_blank' rel='noopener noreferrer'> <img className='w-8 h-8 xl:w-12 xl:h-12' src={github} alt='redes' /> </a>
+            <a href='https://www.linkedin.com/in/eudys-mora-a16431255/' target='_blank' rel='noopener noreferrer'> <img className='w-8 h-8 xl:w-12 xl:h-12' src={linkedin} alt='redes' /> </a>
+            <a href='https://www.facebook.com/share/sdUronfyQVQNnVG9/?mibextid=qi2Omg' target='_blank' rel='noopener noreferrer'> <img className='w-8 h-8 xl:w-12 xl:h-12' src={facebook} alt='redes' /> </a>
           </div>
         </nav>
 
