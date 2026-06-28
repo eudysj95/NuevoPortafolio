@@ -26,7 +26,7 @@ function App() {
           element={<ProfilePage />}
         />
         <Route
-          path="/ai"
+          path="/ia"
           element={<ProfilePage />}
         />
         <Route
